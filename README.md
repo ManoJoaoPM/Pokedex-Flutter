@@ -1,6 +1,6 @@
-# flutter_application_1
+# Pokedex
 
-A new Flutter project.
+Um simples aplicativo de pokedex que fiz em meu quarto bimestre do ensino médio no Instituto Federal Fluminense - Campus Itaperuna/RJ
 
 ## Getting Started
 
